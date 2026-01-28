@@ -1,0 +1,5 @@
+SET 1 250
+SET 2 10
+ADD 3 1 2
+PUT 3 N d
+EXIT 0
